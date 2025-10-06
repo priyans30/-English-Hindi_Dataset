@@ -13,3 +13,17 @@ This project processes an English–Hindi parallel dataset from Hugging Face to 
 ## Files
 - `english_hindi_processing.ipynb` – Notebook with all steps.  
 - `final_cleaned_dataset.xlsx` – Cleaned dataset ready to use.
+
+# English–Hindi Translation
+
+# Overview
+Translated 100 English sentences from a cleaned English–Hindi dataset into Hindi using an LLM.
+
+# Steps
+- Selected 100 English sentences from the dataset.  
+- Translated them to Hindi using a Large Language Model (Hugging Face).  
+
+# Files
+- `translation.ipynb` – Notebook with translation.  
+- `english_hindi_translations.xlsx` – English sentences and predicted Hindi translations.  
+
